@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mainLib.dir/Project.cpp.o -o mainLib  ../ThreadPool/libThreadPool.a -lpthread 
